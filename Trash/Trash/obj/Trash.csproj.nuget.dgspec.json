@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darionthompson/Desktop/Trash/Trash/Trash/Trash.csproj": {}
+  },
+  "projects": {
+    "/Users/darionthompson/Desktop/Trash/Trash/Trash/Trash.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darionthompson/Desktop/Trash/Trash/Trash/Trash.csproj",
+        "projectName": "Trash",
+        "projectPath": "/Users/darionthompson/Desktop/Trash/Trash/Trash/Trash.csproj",
+        "packagesPath": "/Users/darionthompson/.nuget/packages/",
+        "outputPath": "/Users/darionthompson/Desktop/Trash/Trash/Trash/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darionthompson/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
